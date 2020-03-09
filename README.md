@@ -8,4 +8,4 @@
 
 <h1>Game "Even"</h1>
 
-<script id="asciicast-WtysRvmewi0j51xZtQc0PdRO7" src="https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.js" async></script>
+[![asciicast](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.svg)](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7)
