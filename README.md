@@ -8,4 +8,4 @@
 
 <h1>Game "Even"</h1>
 
-<a href="https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7" target="_blank"><img src="https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.svg" /></a>
+<script id="asciicast-WtysRvmewi0j51xZtQc0PdRO7" src="https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.js" async></script>
