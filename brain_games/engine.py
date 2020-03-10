@@ -11,7 +11,7 @@ def game_core(game_module):
         print(f'Question: {question}')
         user_answer = input('Your answer: ')
 
-        if user_answer == correct_answer:
+        if user_answer == str(correct_answer):
             print('Correct!')
         else:
             return print(f'{user_answer} is wrong answer ;(. '
