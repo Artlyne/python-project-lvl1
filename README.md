@@ -13,3 +13,7 @@
 <h1>Game "Calc"</h1>
 
 [![asciicast](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz.svg)](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz)
+
+<h1>Game "GCD"</h1>
+
+[![asciicast](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa.svg)](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa)
