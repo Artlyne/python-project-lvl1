@@ -13,7 +13,7 @@
 
 # Game "GCD"
 
-[![asciicast](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa.svg)](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa?autoplay=1&speed=1.25&size=medium$&cols=100&rows=30)
+[![asciicast](https://asciinema.org/a/qby2lsu1tIw5NanjTTJQpEcGn.svg)](https://asciinema.org/a/qby2lsu1tIw5NanjTTJQpEcGn?autoplay=1&speed=1.25&size=medium$&cols=100&rows=30)
 
 # Game "Progression"
 
