@@ -1,27 +1,24 @@
-# python-project-lvl1
-
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
-
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage" /></a>
-
+# Brain games
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/Artlyne/python-project-lvl1/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/Artlyne/python-project-lvl1/test_coverage)
 [![Build Status](https://travis-ci.com/Artlyne/python-project-lvl1.svg?branch=master)](https://travis-ci.com/Artlyne/python-project-lvl1)
 
-<h1>Game "Even"</h1>
+# Game "Even"
 
 [![asciicast](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.svg)](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7)
 
-<h1>Game "Calc"</h1>
+# Game "Calc"
 
 [![asciicast](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz.svg)](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz)
 
-<h1>Game "GCD"</h1>
+# Game "GCD"
 
 [![asciicast](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa.svg)](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa)
 
-<h1>Game "Progression"</h1>
+# Game "Progression"
 
 [![asciicast](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD.svg)](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD)
 
-<h1>Game "Prime"</h1>
+# Game "Prime"
 
 [![asciicast](https://asciinema.org/a/A9nohbvZkE3182i65lidQvQ9Q.svg)](https://asciinema.org/a/A9nohbvZkE3182i65lidQvQ9Q)
