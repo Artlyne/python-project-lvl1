@@ -21,3 +21,7 @@
 <h1>Game "Progression"</h1>
 
 [![asciicast](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD.svg)](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD)
+
+<h1>Game "Prime"</h1>
+
+[![asciicast](https://asciinema.org/a/A9nohbvZkE3182i65lidQvQ9Q.svg)](https://asciinema.org/a/A9nohbvZkE3182i65lidQvQ9Q)
