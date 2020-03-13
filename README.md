@@ -5,20 +5,20 @@
 
 # Game "Even"
 
-[![asciicast](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.svg)](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7?autoplay=1&speed=1.25&size=medium$&cols=100&rows=30)
+[![asciicast](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.svg)](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7?autoplay=1&speed=1.25&size=medium)
 
 # Game "Calc"
 
-[![asciicast](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz.svg)](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz?autoplay=1&speed=1.25&size=medium$&cols=100&rows=30)
+[![asciicast](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz.svg)](https://asciinema.org/a/tIS1X7eLcqYpIzTyRjfWqGxPz?autoplay=1&speed=1.25&size=medium)
 
 # Game "GCD"
 
-[![asciicast](https://asciinema.org/a/qby2lsu1tIw5NanjTTJQpEcGn.svg)](https://asciinema.org/a/qby2lsu1tIw5NanjTTJQpEcGn?autoplay=1&speed=1.25&size=medium$&cols=100&rows=30)
+[![asciicast](https://asciinema.org/a/qby2lsu1tIw5NanjTTJQpEcGn.svg)](https://asciinema.org/a/qby2lsu1tIw5NanjTTJQpEcGn?autoplay=1&speed=2.5&size=medium)
 
 # Game "Progression"
 
-[![asciicast](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD.svg)](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD?autoplay=1&speed=1.25&size=medium$&cols=100&rows=30)
+[![asciicast](https://asciinema.org/a/FbigVXmlrhdodJZYOIetXsdQL.svg)](https://asciinema.org/a/FbigVXmlrhdodJZYOIetXsdQL?autoplay=1&speed=1.25&size=medium)
 
 # Game "Prime"
 
-[![asciicast](https://asciinema.org/a/A9nohbvZkE3182i65lidQvQ9Q.svg)](https://asciinema.org/a/A9nohbvZkE3182i65lidQvQ9Q?autoplay=1&speed=1.25&size=medium$&cols=100&rows=30)
+[![asciicast](https://asciinema.org/a/bRky8SciApxjFQQGb6PN2mz4I.svg)](https://asciinema.org/a/bRky8SciApxjFQQGb6PN2mz4I?autoplay=1&speed=1.25&size=medium)
