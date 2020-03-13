@@ -17,3 +17,7 @@
 <h1>Game "GCD"</h1>
 
 [![asciicast](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa.svg)](https://asciinema.org/a/xEQBgXYhIsoPtqZYhjEd7Xyoa)
+
+<h1>Game "Progression"</h1>
+
+[![asciicast](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD.svg)](https://asciinema.org/a/jQY6LEanCmpstUhzMNR0FsUOD)
