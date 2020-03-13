@@ -5,7 +5,7 @@
 
 # Game "Even"
 
-[![asciicast](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.svg)](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7)
+[![asciicast](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7.svg)](https://asciinema.org/a/WtysRvmewi0j51xZtQc0PdRO7?autoplay=1)
 
 # Game "Calc"
 
