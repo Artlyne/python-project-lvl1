@@ -1,8 +1,14 @@
 [tool.poetry]
 name = "Artlyne_brain_games"
 version = "0.7.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Collection of mathematical mini-games."
+classifiers = [
+    "Topic :: Games/Entertainment :: Puzzle Games",
+]
+authors = [
+    "Artlyne <Artlynee@gmail.com>"
+]
+repository = "https://github.com/Artlyne/python-project-lvl1"
 packages = [
   { include = "brain_games" },
 ]
