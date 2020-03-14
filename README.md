@@ -1,4 +1,4 @@
-# Brain games
+# "Brain games"
 [![Maintainability](https://api.codeclimate.com/v1/badges/49a93e12e8191c33ca3b/maintainability)](https://codeclimate.com/github/Artlyne/python-project-lvl1/maintainability)
 [![Build Status](https://travis-ci.com/Artlyne/python-project-lvl1.svg?branch=master)](https://travis-ci.com/Artlyne/python-project-lvl1)
 
