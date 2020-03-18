@@ -3,7 +3,7 @@ import random
 GAME_TASK = 'Answer "yes" if number even otherwise answer "no".'
 
 
-def ask():
+def generate_round():
     number = random.randint(1, 100)
     question = number
     is_number_even = (number % 2 == 0)

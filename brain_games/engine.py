@@ -6,8 +6,9 @@ def run(game_module):
     print(f'Welcome to the Brain Games!\n{game_task}\n')
     name = welcome_user()
 
-    for game_round in range(3):
-        question, correct_answer = game_module.ask()
+    rounds = 3
+    for _ in range(rounds):
+        question, correct_answer = game_module.generate_round()
         print(f'Question: {question}')
         user_answer = input('Your answer: ')
 

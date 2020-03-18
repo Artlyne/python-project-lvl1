@@ -14,7 +14,7 @@ def is_number_prime(number):
         return False
 
 
-def ask():
+def generate_round():
     number = random.randint(2, 101)
     question = number
     correct_answer = 'yes' if is_number_prime(number) else 'no'

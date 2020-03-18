@@ -4,7 +4,7 @@ import operator
 GAME_TASK = 'What is the result of the expression?'
 
 
-def ask():
+def generate_round():
     math_operators = {'+': operator.add, '-': operator.sub, '*': operator.mul}
     number1 = random.randint(1, 10)
     number2 = random.randint(1, 10)

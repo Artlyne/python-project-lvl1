@@ -13,7 +13,7 @@ def gcd(a, b):
     return a + b
 
 
-def ask():
+def generate_round():
     number1 = random.randint(1, 100)
     number2 = random.randint(1, 100)
     question = f'{number1} {number2}'
