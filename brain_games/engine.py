@@ -4,7 +4,7 @@ from brain_games.cli import welcome_user
 def run(game_module):
     game_task = game_module.GAME_TASK
     print(f'Welcome to the Brain Games!\n{game_task}\n')
-    name = welcome_user()[0]
+    name = welcome_user()
 
     for game_round in range(3):
         question, correct_answer = game_module.ask()
