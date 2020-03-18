@@ -10,5 +10,5 @@ def generate_round():
     number2 = random.randint(1, 10)
     random_operator = random.choice(['+', '-', '*'])
     question = f'{number1} {random_operator} {number2}'
-    correct_answer = math_operators[random_operator](number1, number2)
-    return question, str(correct_answer)
+    correct_answer = str(math_operators[random_operator](number1, number2))
+    return question, correct_answer

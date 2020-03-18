@@ -20,7 +20,7 @@ def random_progression():
 def generate_round():
     progression = random_progression()  # len of progression is 10
     extractable_number = random.randint(0, 9)  # index of this number
-    correct_answer = progression[extractable_number]
+    correct_answer = str(progression[extractable_number])
     progression[extractable_number] = '..'
 
     question = ''
