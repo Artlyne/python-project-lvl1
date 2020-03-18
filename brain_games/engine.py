@@ -1,4 +1,5 @@
 from brain_games.cli import welcome_user
+import prompt
 
 
 def run(game_module):
@@ -10,7 +11,7 @@ def run(game_module):
     for _ in range(rounds):
         question, correct_answer = game_module.generate_round()
         print(f'Question: {question}')
-        user_answer = input('Your answer: ')
+        user_answer = prompt.string('Your answer: ')
 
         if not user_answer == correct_answer:
             print(f'{user_answer} is wrong answer ;(. '
