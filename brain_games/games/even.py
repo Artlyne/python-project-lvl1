@@ -1,6 +1,6 @@
 import random
 
-game_task = 'Answer "yes" if number even otherwise answer "no".'
+GAME_TASK = 'Answer "yes" if number even otherwise answer "no".'
 
 
 def ask():

@@ -2,7 +2,7 @@ from brain_games.cli import welcome_user
 
 
 def run(game_module):
-    game_task = game_module.game_task
+    game_task = game_module.GAME_TASK
     print(f'Welcome to the Brain Games!\n{game_task}\n')
     name = welcome_user()[0]
 

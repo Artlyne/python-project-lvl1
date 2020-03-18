@@ -1,6 +1,6 @@
 import random
 
-game_task = 'What number is missing in the progression?'
+GAME_TASK = 'What number is missing in the progression?'
 
 
 def random_progression():

@@ -1,6 +1,6 @@
 import random
 
-game_task = 'Find the greatest common divisor of given numbers.'
+GAME_TASK = 'Find the greatest common divisor of given numbers.'
 
 
 # Euclidean algorithm
