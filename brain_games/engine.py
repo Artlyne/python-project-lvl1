@@ -12,10 +12,12 @@ def run(game_module):
         print(f'Question: {question}')
         user_answer = input('Your answer: ')
 
-        if user_answer == str(correct_answer):
-            print('Correct!')
-        else:
-            return print(f'{user_answer} is wrong answer ;(. '
-                         f'Correct answer was {correct_answer}.\n'
-                         f"Let's try again, {name}!")
-    return print(f'Congratulations, {name}!')
+        if not user_answer == str(correct_answer):
+            print(f'{user_answer} is wrong answer ;(. '
+                  f'Correct answer was {correct_answer}.\n'
+                  f"Let's try again, {name}!")
+            return
+
+        print('Correct!')
+
+    print(f'Congratulations, {name}!')
