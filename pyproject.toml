@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Artlyne_brain_games"
-version = "0.7.1"
+version = "1.0.0"
 description = "Collection of mathematical mini-games."
 classifiers = [
     "Topic :: Games/Entertainment :: Puzzle Games",
